@@ -1,0 +1,23 @@
+{
+    "visual": {
+        "name": "visual",
+        "displayName": "visual",
+        "guid": "PBI_CV_470FE3C2_D1E7_4DDB_ADDE_95BBDE0B26C1",
+        "visualClassName": "Visual",
+        "version": "1.0.0",
+        "description": "",
+        "supportUrl": "",
+        "gitHubUrl": ""
+    },
+    "apiVersion": "1.1.0",
+    "author": {
+        "name": "",
+        "email": ""
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": [],
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json"
+}
